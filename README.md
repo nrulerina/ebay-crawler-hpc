@@ -32,7 +32,7 @@
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram]()
+![Architecture Diagram](img/WebScraping_Architecture.png)
 
 ### Data Pipeline:
 
